@@ -94,19 +94,19 @@ LetoCTF2023 - Telegram Bot
     Критерии оценки
 </h3>  
 
-<p align="justify">&emsp;&emsp;:large_blue_circle: Презентация, распределение обязанностей;</p>
+<p align="justify">&emsp;&emsp;🏴: Презентация, распределение обязанностей;</p>
 
-<p align="justify">&emsp;&emsp;:large_blue_circle: Идея, киллер-фичи;</p>
+<p align="justify">&emsp;&emsp;🏴: Идея, киллер-фичи;</p>
 
-<p align="justify">&emsp;&emsp;:large_blue_circle: Тестовы стенд;<p>
+<p align="justify">&emsp;&emsp;🏴: Тестовы стенд;<p>
 
-<p align="justify">&emsp;&emsp;:large_blue_circle: Доступ к исходному коду;</p>
+<p align="justify">&emsp;&emsp;🏴: Доступ к исходному коду;</p>
 
-<p align="justify">&emsp;&emsp;:large_blue_circle: Документация;</p>
+<p align="justify">&emsp;&emsp;🏴: Документация;</p>
 
-<p align="justify">&emsp;&emsp;:large_blue_circle: Возможность интеграции;</p>
+<p align="justify">&emsp;&emsp;🏴: Возможность интеграции;</p>
  
-<p align="justify">&emsp;&emsp;:large_blue_circle: Система контроля версий.</p>
+<p align="justify">&emsp;&emsp;🏴: Система контроля версий.</p>
 
 
 <h2 align="center">
